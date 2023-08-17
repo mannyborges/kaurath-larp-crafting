@@ -1,0 +1,32 @@
+---
+recipes:
+  - name: 'name'  #name of recipe
+    id: '0001' # int 
+    description: 'description text' # in game description 
+    type: 'POTION'  # POTION|ALCHEMY|TINKERING|RUNES  
+    levelcode: '1'  # 1|2|3|4|p  string 
+    levelname : 'mundane'    # mundane| basic | intermediate | advanced | masterwork | plot
+    effect: # list
+      - name: 'fire attack - vampire' # unique name of effect
+        damage: '2' # if applicable
+        effect: 'fire' # if applicable
+        count: '' # if applicable double|triple|quadruple
+        duration: '' # sort|long|permanent
+        target: 'vampire' # if applicable self|trait
+        delivery : 'packet' # if applicable any|packet|melee|gesture|voice|gaze 
+    attunment : 'true' # true|false boolean 
+    recipe: 
+      - common : '1' # int
+        uncommon : '1' # int
+        rare : '' # int
+        exotic : '' # int
+        special : '' # int
+        plot: '' # int
+        prereq: # list
+          - id: '' #int      
+    creator: 'test@test.com' # player or staff who created this recipe
+    date: '16aug2023'
+    comment: 'test object'
+
+
+   
