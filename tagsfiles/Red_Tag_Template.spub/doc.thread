@@ -378,7 +378,7 @@
 				MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBh
 				cnRpZ2h0ZW5mYWN0b3IwCgpcZjBcYlxmczExIFxjZjAg
 				XGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApNfQEAAAAj
-				AAAAAQAAAAcAAABUWFQucnRmEAAAAG3J82S2AQAAAAAA
+				AAAAAQAAAAcAAABUWFQucnRmEAAAAOTv82S2AQAAAAAA
 				AAAAAAA=
 				</data>
 			</dict>
@@ -4036,7 +4036,7 @@
 								Y2YyIE19AQAA
 								ACMAAAABAAAA
 								BwAAAFRYVC5y
-								dGYQAAAAbcnz
+								dGYQAAAA5O/z
 								ZLYBAAAAAAAA
 								AAAAAA==
 									</data>
@@ -4093,7 +4093,7 @@
 								AQAAACMAAAAB
 								AAAABwAAAFRY
 								VC5ydGYQAAAA
-								bcnzZLYBAAAA
+								5O/zZLYBAAAA
 								AAAAAAAAAA==
 									</data>
 									<key>Text Wrapping Inset</key>
@@ -5365,7 +5365,7 @@
 		<key>embdShowForegroundObjects</key>
 		<true/>
 		<key>embdViewOrigin</key>
-		<string>{-98.761710794302203, -81.705044936071829}</string>
+		<string>{-98.468431771898949, -83.46471907049137}</string>
 		<key>embdVisibleCanvasesPreview</key>
 		<false/>
 		<key>embdVisibleLayer</key>
